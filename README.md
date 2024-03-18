@@ -42,8 +42,7 @@ A BlackHatLegion é uma comunidade dedicada à hacking ético. Nosso objetivo é
 ## 🌐 Siga-nos
 - Instagram [@BlackHatLegion](https://www.instagram.com/blackhatlegion)
 - Twitter: [@BlackHatLegion](https://twitter.com/BlackHatLegion)
-- LinkedIn: [BlackHatLegion](https://www.linkedin.com/company/blackhatlegion)
-- Facebook: [BlackHatLegion](https://www.facebook.com/BlackHatLegion)
+- Tiktok: [@BlackHatLegion](https://www.tiktok.com/@blackhatlegion)
 
 <br><p align="center"><b>Contador de visitante</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/BlackHatLegion/count.svg" /></p> 
