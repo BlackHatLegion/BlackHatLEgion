@@ -34,7 +34,6 @@ A BlackHatLegion é uma comunidade dedicada à hacking ético. Nosso objetivo é
 - 📌 [Wiki](https://github.com/blackhatlegion/wiki): Explore nossa extensa base de conhecimento sobre hacking ético, pentesting e muito mais.
 - 🎥 [YouTube](https://www.youtube.com/blackhatlegion): Assista a vídeos educativos e tutoriais sobre segurança cibernética em nosso canal do YouTube.
 - 💬 [Fórum](https://forum.blackhatlegion.com): Participe de discussões e interaja com outros membros da comunidade em nosso fórum.
-- 📸 [Instagram](https://www.instagram.com/blackhatlegion): Siga-nos no Instagram para obter atualizações exclusivas, dicas de segurança e muito mais.
 
 ## 📅 Eventos
 
