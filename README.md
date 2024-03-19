@@ -3,7 +3,7 @@
 <h1 align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header" alt="BlackHatLegion">
   <br>
-  BlackHatLegion
+   <img src="src/ascii-text-art-removebg-preview.png" alt="Hackerman" width="75%">
 </h1>
 
 <!--<p align="center">
